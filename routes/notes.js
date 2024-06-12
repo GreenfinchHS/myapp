@@ -15,6 +15,8 @@ subTitle: 'ノート２のサブタイトルです',
 bodyText: 'ノート２の本文です'
 },
 };
+
+
 /**
 * メモを全件取得するAPI
 * @returns {Object[]} data
